@@ -1,0 +1,46 @@
+{
+"North Amirica": [
+    ["United States", "US", "North Amirica", 
+    [
+        ["45.90.28.193", "dns1.nextdns.io", "New York City, New York", 40.7128, 74.0060],
+        ["204.117.214.10", "ns1.sprintlink.net", "Reston, Virginia", 38.9586, 77.3570],
+        ["69.67.97.18", "ns2.fortisusa.net", "Lakewood, Colorado", 39.7047, 105.0814]
+    ], 1],
+    ["Canada", "CA", "North Amirica", 
+    [
+        ["199.166.6.2", "ns.execulink.com", "London, Ontario", 42.9849, 81.2453],
+        ["74.56.229.191", "modemcable191.229-56-74.mc.videotron.ca", "Montréal, Quebec", 45.5019, 73.5674],
+        ["137.82.1.1", "hub.ubc.ca", "Arbutus Ridge, British Columbia", 49.2536, 123.1604]
+    ]],
+    ["Mexico", "MX", "North Amirica", 
+    [
+        ["201.148.95.234", "dns5.bestel.com.mx", "Mexico City", 19.4326, 99.1332]
+    ]]
+],
+
+"Central America": [
+    
+	["Guatemala", "GT", "Central America", [
+		["190.143.189.106", "nil", "Puerto San Jose, Escuintla", 13.9304, 90.8342]
+	]],
+	["El Salvador", "SV", "Central America", [
+		["200.85.0.107", "services2.telemovil.net", "San Salvador", 13.6929, 89.2182],
+		["190.86.139.62", "62.139.86.190.static.claro.com.sv", "San Salvador", 13.6929, 89.2182]
+	]],
+	["Honduras", "HN", "Central America", [
+		["190.11.225.2", "ns1.psinet.hn", "Jutiapa, Atlantida", 15.7366, 86.5047],
+		["181.114.59.245", "www.netsys.hn", "Sula, Santa Barbara", 15.2471, 88.5638]
+	]],
+	["Nicaragua", "NI", "Central America", [
+        ["165.98.138.194", "host194-138-98-165.tigobusiness.com.ni", "Managua, Managua", 12.1150, 86.2362]
+    ]],
+	["Dominican Republic", "DO", "Central America", [
+		["66.98.34.58", "58sdl.codetel.net.do", "Punta Cana, La Altagracia", 18.5601, 68.3725],
+		["186.120.184.35", "adsl-184-35.tricom.net", "San Rafael del Yuma, La Altagracia", 18.4297, 68.6753]
+	]],
+	["Puerto Rico", "PR", "Central America", [
+		["199.116.57.181", "199-116-57-181.ip-solutions.us", "San Juan, San Juan", 18.4655, 66.1057],
+		["24.48.219.154", "nil", "San German, San German", 18.0807, 67.0411]
+	]]
+]
+}
