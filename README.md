@@ -1,6 +1,8 @@
 # Hello World, DNS Pinger?
 Not the Hello World your thinking...
 
+[![Hello Wolrd Video](https://img.youtube.com/vi/_4TkZsqF2GA/0.jpg)](https://www.youtube.com/watch?v=_4TkZsqF2GA)
+
 I am going to get to the point, this is a pinging site, it is very simple, all it does is ping DNS servers to check if they are up, and how long it takes to get from there, and back, that is all, it pings all 17 DNS servers I have in this list every 3 secs.
 
 The webpage is very simeple, it checks for the `Server.Data` file every 3 secs. and updates the page to show if they are online or offline, and the times, it also makes a sonar-like sound just for fun :)
