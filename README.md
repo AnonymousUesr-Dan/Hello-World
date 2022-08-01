@@ -15,6 +15,8 @@ The webpage is very simeple, it checks for the `Server.Data` file every 3 secs. 
 
 `Server.Data`: A file that the webpage uses to put the data on the website.
 
+Note: All values in the `Ping.Data` and `Server.Data` and just examples, and will be over-writed when you run the python program.
+
 ## To make this work, do the following:
 
 First: Put the `index.html`, `Server.Data`, `Ping.Data`, and `Ping.Servers` info the same place/folder in `public_html`.
