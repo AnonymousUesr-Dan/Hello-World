@@ -15,6 +15,8 @@ The webpage is very simeple, it checks for the `Server.Data` file every 3 secs. 
 
 `Server.Data`: A file that the webpage uses to put the data on the website.
 
+`Ping.wav`: A ping sound the website places when it updates the values.
+
 Note: All values in the `Ping.Data` and `Server.Data` and just examples, and will be over-writed when you run the python program.
 
 ## To make this work, do the following:
@@ -23,7 +25,7 @@ First: Put the `index.html`, `Server.Data`, `Ping.Data`, and `Ping.Servers` info
 
 Next: Put the `Ping.py` folder in a folder outside of `public_html`.
 
-Next: Open `Ping.py` and follow the comments
+Next: Open `Ping.py` and follow the comments.
 
 Lastly: Run `Ping.py`, and your done!
 
